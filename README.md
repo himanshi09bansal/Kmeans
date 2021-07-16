@@ -2,8 +2,7 @@
 
 
 ## INTRODUCTION
-From the given dataset, predict the optimum number of clusters and represent it visually.
-From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+From the given dataset, predict the optimum number of clusters and represent it visually. <br/>
 Use R or Python or perform this task
 
 ## 🚀 FEATURES
